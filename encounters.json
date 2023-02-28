@@ -1,0 +1,266 @@
+[
+    {
+        "name": "Vale Guardian",
+        "bosses": {"Vale Guardian": 15438},
+        "categories": ["Raid Bosses", "1"],
+        "order": 1
+    },
+    {
+        "name": "Gorseval the Multifarious",
+        "bosses": {"Gorseval the Multifarious": 15429},
+        "categories": ["Raid Bosses", "1"],
+        "order": 2
+    },
+    {
+        "name": "Sabetha the Saboteur",
+        "bosses": {"Sabetha the Saboteur": 15375},
+        "categories": ["Raid Bosses", "1"],
+        "order": 3
+    },
+    {
+        "name": "Slothasor",
+        "bosses": {"Slothasor":16123},
+        "categories": ["Raid Bosses", "2"],
+        "order": 1
+    },
+    {
+        "name": "Bandit Trio",
+        "bosses": { "Berg":16088,
+                    "Zane":16137,
+                    "Narella":16125 },
+        "categories": ["Raid Bosses", "2"],
+        "order": 2
+    },
+    {
+        "name": "Matthias Gabrel",
+        "bosses": {"Matthias Gabrel":16115},
+        "categories": ["Raid Bosses", "2"],
+        "order": 3
+    },
+    {
+        "name": "Escort",
+        "bosses": {"McLeod the Silent":16253},
+        "categories": ["Raid Bosses", "3"],
+        "order": 1
+    },
+    {
+        "name": "Keep Construct",
+        "bosses": {"Keep Construct":16235},
+        "categories": ["Raid Bosses", "3"],
+        "order": 2
+    },
+    {
+        "name": "Twisted Castle",
+        "bosses": {"Twisted Castle":16247},
+        "categories": ["Raid Bosses", "3"],
+        "order": 3
+    },
+    {
+        "name": "Xera",
+        "bosses": {"Xera":16246},
+        "categories": ["Raid Bosses", "3"],
+        "order": 4
+    },
+    {
+        "name": "Cairn the Indomitable",
+        "bosses": {"Cairn the Indomitable":17194},
+        "categories": ["Raid Bosses", "4"],
+        "order": 1
+    },
+    {
+        "name": "Mursaat Overseer",
+        "bosses": {"Mursaat Overseer":17172},
+        "categories": ["Raid Bosses", "4"],
+        "order": 2
+    },
+    {
+        "name": "Samarog",
+        "bosses": {"Samarog":17188},
+        "categories": ["Raid Bosses", "4"],
+        "order": 3
+    },
+    {
+        "name": "Deimos",
+        "bosses": {"Deimos":17154},
+        "categories": ["Raid Bosses", "4"],
+        "order": 4
+    },
+    {
+        "name": "Soulless Horror",
+        "bosses":{"Soulless Horror":19767},
+        "categories": ["Raid Bosses", "5"],
+        "order": 1
+    },
+    {
+        "name": "River of Souls",
+        "bosses": {"Desmina":19828},
+        "categories": ["Raid Bosses", "5"],
+        "order": 2
+    },
+    {
+        "name": "Broken King",
+        "bosses": {"Broken King":19691},
+        "categories": ["Raid Bosses", "5"],
+        "order": 3
+    },
+    {
+        "name": "Soul Eater",
+        "bosses": {"Eater of Souls":19536},
+        "categories": ["Raid Bosses", "5"],
+        "order": 3
+    },
+    {
+        "name": "Eyes of Judgement & Fate",
+        "bosses": { "Eye of Judgment":19651,
+                    "Eye of Fate":19844 },
+        "categories": ["Raid Bosses", "5"],
+        "order": 3
+    },
+    {
+        "name": "Dhuum",
+        "bosses": {"Dhuum":19450},
+        "categories": ["Raid Bosses", "5"],
+        "order": 4
+    },
+    {
+        "name": "Conjured Amalgamate",
+        "bosses": {"Conjured Amalgamate":43974},
+        "categories": ["Raid Bosses", "6"],
+        "order": 1
+    },
+    {
+        "name": "Twin Largos",
+        "bosses": {"Kenut":21089,
+                   "Nikare":21105},
+        "categories": ["Raid Bosses", "6"],
+        "order": 2
+    },
+    {
+        "name": "Qadim",
+        "bosses": {"Qadim":20934},
+        "categories": ["Raid Bosses", "6"],
+        "order": 3
+    },
+    {
+        "name": "Cardinal Adina",
+        "bosses": {"Cardinal Adina":22006},
+        "categories": ["Raid Bosses", "7"],
+        "order": 1
+    },
+    {
+        "name": "Cardinal Sabir",
+        "bosses": {"Cardinal Sabir":21964},
+        "categories": ["Raid Bosses", "7"],
+        "order": 2
+    },
+    {
+        "name": "Qadim the Peerless",
+        "bosses": {"Qadim the Peerless":22000},
+        "categories": ["Raid Bosses", "7"],
+        "order": 3
+    },
+    {
+        "name": "M.A.M.A.",
+        "bosses": {"MAMA":17021},
+        "categories": ["Fractals", "99"],
+        "order": 1
+    },
+    {
+        "name": "Siax the Corrupted",
+        "bosses": {"Siax the Corrupted":17028},
+        "categories": ["Fractals", "99"],
+        "order": 2
+    },
+    {
+        "name": "Ensolyss of the Endless Torment",
+        "bosses": {"Ensolyss of the Endless Torment":16948},
+        "categories": ["Fractals", "99"],
+        "order": 3
+    },
+    {
+        "name": "Skorvald the Shattered",
+        "bosses": {"Skorvald the Shattered":17632},
+        "categories": ["Fractals", "100"],
+        "order": 1
+    },
+    {
+        "name": "Artsariiv",
+        "bosses": {"Artsariiv":17949},
+        "categories": ["Fractals", "100"],
+        "order": 2
+    },
+    {
+        "name": "Arkk",
+        "bosses": {"Arkk":17759},
+        "categories": ["Fractals", "100"],
+        "order": 3
+    },
+    {
+        "name": "Icebrood Construct",
+        "bosses": {"Icebrood Construct":22154},
+        "categories": ["Strikes"]
+    },
+    {
+        "name": "The Voice and The Claw",
+        "bosses": { "The Voice":22343,
+                    "The Claw":22481 },
+        "categories": ["Strikes"]
+    },
+    {
+        "name": "Fraenir of Jormag",
+        "bosses": { "Fraenir of Jormag":22492,
+                    "Big Boy":22436 },
+        "folders": ["Fraenir of Jormag"],
+        "categories": ["Strikes"]
+    },
+    {
+        "name": "Boneskinner",
+        "bosses": {"Boneskinner":22521},
+        "categories": ["Strikes"]
+    },
+    {
+        "name": "Whisper of Jormag",
+        "bosses": {"Whisper of Jormag":22711},
+        "categories": ["Strikes"]
+    },
+    {
+        "name": "Freezie",
+        "bosses": {"Freezie":21333},
+        "categories": ["Misc", "Holiday"]
+    },
+    {
+        "name": "Standard Kitty Golem",
+        "bosses": {"Standard Kitty Golem":16199},
+        "categories": ["Golems"]
+    },
+    {
+        "name": "Medium Kitty Golem",
+        "bosses": {"Medium Kitty Golem":19645},
+        "categories": ["Golems"]
+    },
+    {
+        "name": "Large Kitty Golem",
+        "bosses": {"Large Kitty Golem":19676},
+        "categories": ["Golems"]
+    },
+    {
+        "name": "Massive Kitty Golem",
+        "bosses": {"Massive Kitty Golem": 16202},
+        "categories": ["Golems"]
+    },
+    {
+        "name": "Average Kitty Golem",
+        "bosses": {"Average Kitty Golem":16177},
+        "categories": ["Golems"]
+    },
+    {
+        "name": "Vital Kitty Golem",
+        "bosses": {"Vital Kitty Golem":16198},
+        "categories": ["Golems"]
+    },
+    {
+        "name": "WvW",
+        "bosses":  {"World vs World":1},
+        "categories": ["Misc", "WvW"]
+    }
+]
